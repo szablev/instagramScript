@@ -1,4 +1,4 @@
-# instagramScript
+# Instagram Script
 
 It's an instagram script that gives you the people who don't follow you but you follow them from html.
 
